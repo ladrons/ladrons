@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm C. Burak Çevik</h1>
 <h3 align="center">.NET Developer</h3>
 
-
-
 - 🌱 I’m currently learning **everything about Back-end!**
 
 - 💬 Ask me about **.NET, C# and Back-End**
 
 - 📫 How to reach me **burak_cevik76@hotmail.com.tr**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladrons&show_icons=true&theme=dark&locale=en" alt="ladrons" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
