@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm C. Burak Çevik</h1>
+<h1 align="center">Hi 👋, I'm Cem Burak Çevik</h1>
 <h3 align="center">.NET Developer</h3>
 
 - 🌱 I’m currently learning **everything about Back-end!**
