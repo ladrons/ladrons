@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **burak_cevik76@hotmail.com.tr**
 
-## 📊 GitHub İstatistiklerim
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ladrons&show_icons=true&theme=github_dark)
-
 ### 🛠️ Backend Technologies
 <p align="left">
     <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=664794&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="csharp logo"  />
@@ -42,3 +39,6 @@
     <img src="https://img.shields.io/static/v1?message=Postman&logo=postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="postman logo"  />
     <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="docker logo"  />
 </p>
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ladrons&show_icons=true&theme=github_dark)
