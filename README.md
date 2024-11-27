@@ -41,4 +41,4 @@
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ladrons&show_icons=true&theme=github_dark)
+![ladrons's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ladrons&theme=dark&hide_border=true)
