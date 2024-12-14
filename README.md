@@ -7,7 +7,7 @@
 
 - 💬 You can ask questions about **Blazor, .NET and C#!**
 
-- 📫 How to reach me **burak_cevik76@hotmail.com.tr**
+- 📫 How to reach me: **burakcevik.dev@hotmail.com**
 
 ### 🛠️ Backend Technologies
 <p align="left">
