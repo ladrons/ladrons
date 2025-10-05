@@ -12,8 +12,6 @@
 
 ### 🧠 Currently Working On
 - 📱 Fynantica: A cross-platform expense tracking app built with **React Native + .NET Backend**.
-- 🌐 Landing page for Fynantica using **Next.js, TailwindCSS, and Vercel**.
-- 🔄 Building reusable components and scalable state management using **Redux Toolkit**.
 
 ### 🛠️ Backend Technologies
 <p align="left">
