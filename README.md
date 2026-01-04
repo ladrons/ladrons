@@ -8,11 +8,11 @@
 - 🌐 I also build and maintain **modern SPA landing pages** using **Next.js + TailwindCSS**.
 - 📱 Developing cross-platform mobile apps with **React Native + Expo**.
 - 💬 Feel free to ask me anything about **.NET, Blazor, React Native, or Clean Architecture**!
-- 📫 How to reach me: **burakcevik.dev@hotmail.com** or **burak_cevik76@hotmail.com.tr**
+- 📫 How to reach me: **burak_cevik76@hotmail.com.tr** or **burakcevik.dev@hotmail.com**
 
 ### 🧠 Currently Working On
 - 📱 Fynantica: A cross-platform expense tracking app built with **React Native + .NET Backend**.
-- 
+- 📋 I'll be sharing my new projects here very soon!
 
 ### 🛠️ Backend Technologies
 <p align="left">
