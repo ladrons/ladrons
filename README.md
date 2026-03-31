@@ -54,4 +54,4 @@
 </p>
 
 ## 📊 GitHub Stats
-![ladrons's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ladrons&theme=dark&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=ladrons&theme=react&hide_border=true)
