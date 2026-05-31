@@ -11,7 +11,6 @@
 - 📫 How to reach me: **burakcevik.dev@hotmail.com** or **burak_cevik76@hotmail.com.tr**
 
 ### 🧠 Currently Working On
-- 📱 Fynantica: A cross-platform expense tracking app built with **React Native + .NET Backend**.
 - 📋 I'll be sharing my new projects here very soon!
 
 ### 🛠️ Backend Technologies
