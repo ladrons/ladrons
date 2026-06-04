@@ -51,6 +51,3 @@
     <img src="https://img.shields.io/static/v1?message=Postman&logo=postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="postman logo"  />
     <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="docker logo"  />
 </p>
-
-## 📊 GitHub Stats
-![GitHub Stats](https://streak-stats.demolab.com?user=ladrons&theme=react&hide_border=true)
